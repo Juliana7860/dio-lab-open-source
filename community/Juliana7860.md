@@ -1,11 +1,24 @@
-# Juliana Costa
-Olá! Me chamo Juliana e trabalho atualmente como aprendiz na Bimbo do Brasil.
-Estou nesse bootcamp para aprender a automatizar tarefas do meu dia a dia e otimizar diversos processos. 
-Me interessei muito pelo tema e quero ir além, contribuindo cada vez mais com a comunidade e aprendendo com ela.
+# Personal README
+## Apresentação:
+Olá, me chamo Juliana {Juliana7860}! Aqui você vai encontrar um puquinho sobre as tecnologias que venho estudando.
 
-## Onde me encontrar:
-- [GitHub](https://github.com/Juliana7860)
-- [LinkedIn](https://www.linkedin.com/in/juliana-costa-9189a41a4)
-- [VSCO](https://vs.co/8qfxkz3d)
+## Sobre mim:
+Formação: Processos gerenciais - Mackenzie
+Objetivo atual: automatizar processos do dia a dia e aprender novas ferramentas.
+
+## Tecnologias e ferramentas:
+- Python
+- VSCode
+- Excel
+- Power BI
+- Power Query
+- Nano (editor de terminal)
+
+## GitHub Stats:
+![Juliana GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliana7860&show_icons=true&theme=radical)
+
+## Links e contatos:
+- [Email] (Juliana.costa.candido@gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/juliana-costa-9189a41a4)
 
  
